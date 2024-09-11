@@ -63,4 +63,16 @@ This PCB is part of a family of PCBs that can be used together to create  a full
 
 ### 3D Printable Enclosures/Boxes 
 
-There aren't currently any 3D printable enclosures ready for this board.  When those are available, they will be linked here.  
+With all of the 3D Prints for PiFire, a higher temperature filament such as PETG should be used.  PLA generally won't stand up to the temperatures that the components may be exposed to outdoors and near a hot smoker.  
+
+#### Enclosure
+
+Included here is an initial revision of the enclosure for this PCB.  The current models should be considered still in development and may have alignment challenges, etc. 
+
+Except for the mounting wings, the majority of bolts to be used with this enclosure are M3. 
+
+![Enclosure](/img/PiFire-PCBv4-Relay-Enclosure.png)
+
+* STL: [Base](/printables/PiFire-v4-Relay-Base.stl)
+* STL: [Lid](/printables/PiFire-v4-Relay-Lid.stl)
+* OnShape: [Enclosure Original Models](https://cad.onshape.com/documents/03559f76f7adf190bf6f1259/w/7529cb0e4cd69db1a6a15202/e/07d5f9d46dc8f2b9e7dd655f?renderMode=0&uiState=66e11de950d7684b88999a0f)
