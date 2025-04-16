@@ -37,6 +37,12 @@ Preview the schematic in PDF format here: [Schematic](schematic.pdf)
 
 ![Schematic PNG](schematic.png)
 
+### PWM Fan Pinout
+
+![PWM Fan Pinout](img/PiFire-Relay-Module-PWM-Fan-Pinout.png)
+
+The PWM fan pinout is using a standard 4-pin fan connector.  It's recommended to source the headers with retaining clip to ensure that the fan doesn't easily come unplugged.  JST headers can be used as well. 
+
 ### JLCPCB Production Files
 
 If you wish to get these PCBs made by JLCPCB, the production files are provided in the `/production` folder.  For convenience, the file `production.zip` can simply be uploaded to JLCPCB to make it super easy to order boards.
