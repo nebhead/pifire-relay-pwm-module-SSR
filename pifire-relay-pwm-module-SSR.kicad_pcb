@@ -700,7 +700,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "470"
 			(at 3.81 -2 0)
 			(layer "F.SilkS")
 			(uuid "46ae50db-97ff-41aa-a5ee-1a6374330b88")
@@ -3279,7 +3279,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "470"
 			(at 4.37 -2.25 90)
 			(layer "F.SilkS")
 			(uuid "23565a3e-0c3a-4c25-b419-3dbe2062533a")
@@ -5744,7 +5744,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "470"
 			(at 4.2275 -2.25 90)
 			(layer "F.SilkS")
 			(uuid "bb8dda2f-70fc-407b-8f03-9dce388fbcf1")
@@ -7398,7 +7398,7 @@
 				)
 			)
 		)
-		(property "Value" "4.7k"
+		(property "Value" "470"
 			(at 4.31 -2.25 90)
 			(layer "F.SilkS")
 			(uuid "a8a89e4c-5d91-441a-8a37-430a381281c0")
@@ -11935,7 +11935,7 @@
 			)
 		)
 	)
-	(gr_text "v1.0.0 | March 2024 | Ben Parmeter"
+	(gr_text "v1.0.1 | December 2025 | Ben Parmeter"
 		(at 65 36.5 90)
 		(layer "B.SilkS")
 		(uuid "d5f75bf6-b32d-4944-8a2c-1e33a3369d90")
@@ -11947,7 +11947,7 @@
 			)
 			(justify left bottom mirror)
 		)
-		(render_cache "v1.0.0 | March 2024 | Ben Parmeter" 90
+		(render_cache "v1.0.1 | December 2025 | Ben Parmeter" 90
 			(polygon
 				(pts
 					(xy 64.796 36.854347) (xy 63.914381 36.521395) (xy 63.914381 36.678199) (xy 64.442531 36.866071)
@@ -12522,7 +12522,7 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "PiFire Relay PWM Module SSR v1.0.0"
+	(gr_text "PiFire Relay PWM Module SSR v1.0.1"
 		(at 31.75 27.25 0)
 		(layer "F.SilkS")
 		(uuid "b572a67b-099a-4535-8177-dc8b2df373a4")
@@ -12534,7 +12534,7 @@
 			)
 			(justify left bottom)
 		)
-		(render_cache "PiFire Relay PWM Module SSR v1.0.0" 0
+		(render_cache "PiFire Relay PWM Module SSR v1.0.1" 0
 			(polygon
 				(pts
 					(xy 32.507519 25.590611) (xy 32.577096 25.594351) (xy 32.648276 25.603207) (xy 32.715741 25.619189)
